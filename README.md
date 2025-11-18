@@ -1,4 +1,4 @@
-# Aventura na Kodland
+# Space exploders
 
 Este é um jogo de plataforma 2D simples desenvolvido com a biblioteca Pygame Zero em Python. O jogador controla um herói que deve navegar por fases geradas aleatoriamente, pulando em plataformas e derrotando inimigos.
 
